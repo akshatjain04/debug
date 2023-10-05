@@ -1,0 +1,12 @@
+accountCode,profileIdentifier,firstName,lastName,profilePin
+1234,SYNC_EMAIL,John,Doe,5678
+5678,SYNC_EXTERNAL,Jane,Doe,1234
+9012,SYNC_PIN,James,Bond,3456
+3456,SYNC_EMAIL,Emma,Watson,7890
+7890,SYNC_EXTERNAL,Harry,Potter,0123
+0123,SYNC_PIN,Ron,Weasley,4567
+4567,SYNC_EMAIL,Hermione,Granger,8901
+8901,SYNC_EXTERNAL,Draco,Malfoy,2345
+2345,SYNC_PIN,Severus,Snape,6789
+6789,SYNC_EMAIL,Albus,Dumbledore,9012
+9012,SYNC_EXTERNAL,Tom,Riddle,3456
